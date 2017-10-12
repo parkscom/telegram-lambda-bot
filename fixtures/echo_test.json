@@ -1,0 +1,4 @@
+{
+    "httpMethod": "POST",
+    "body" : "{\"update_id\":470231802,\"message\":{\"message_id\":20,\"from\":{\"id\":77881302,\"first_name\":\"hello\",\"last_name\":\"world\"},\"chat\":{\"id\":77881302,\"first_name\":\"hello\",\"last_name\":\"world\"},\"date\":1506664361,\"text\":\"hello\"}}"
+}

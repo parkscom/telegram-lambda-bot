@@ -1,0 +1,7 @@
+{
+    "description": "sample for telegram flickr interest photos",
+    "hooks":{
+      "build": "pip3 install -r requirements.txt -t modules",
+      "clean" : "rm -rf modules"
+    }
+  }

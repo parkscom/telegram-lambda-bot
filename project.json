@@ -1,0 +1,8 @@
+{
+  "name": "telegrambot",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "YOUR_AWS_LAMBA_ROLE",
+  "environment": {}
+}
